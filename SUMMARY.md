@@ -9,7 +9,7 @@
 * [虚拟机安装](ros安装/vultraSystemINS.md)
 * [ROS安装](ros安装/ROSINS.md)
 * [ROS简单测试](ros安装/ROSSimpleTest.md)
-* [mian](ROS基本架构与功能/main.md)
+* [mian](ROS安装/main.md)
 
 ##  ROS基本架构与功能
 
