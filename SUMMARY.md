@@ -4,7 +4,11 @@
 
 ## ROS安装
 
-* [mian](ros安装/main.md)
+* [简介](ros安装/简介.md)
+* [双系统安装](ros安装/双系统安装.md)
+* [虚拟机安装](ros安装/虚拟机安装.md)
+* [ROS安装](ros安装/ROS安装.md)
+* [ROS简单测试](ros安装/ROS简单测试.md)
 
 ##  ROS基本架构与功能
 
