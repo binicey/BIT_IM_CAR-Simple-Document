@@ -6,7 +6,7 @@
 
 * [简介](ROS安装/sum.md)
 * [双系统安装](ROS安装/doubleSystemINS.md)
-* [虚拟机安装](ROS安装/vultaSystemINS.md)
+* [虚拟机安装](ROS安装/vultraSystemINS.md)
 * [ROS安装](ROS安装/ROSINS.md)
 * [ROS简单测试](ROS安装/ROSSimpleTest.md)
 
