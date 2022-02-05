@@ -4,11 +4,7 @@
 
 ## ROS安装
 
-* [简介](ros-an-zhuang/jian-jie.md)
-* [双系统安装](ros-an-zhuang/shuang-xi-tong-an-zhuang.md)
-* [虚拟机安装](ros-an-zhuang/xu-ni-ji-an-zhuang.md)
-* [ROS安装](ros-an-zhuang/ros-an-zhuang.md)
-* [ROS简单测试](ros-an-zhuang/ros-jian-dan-ce-shi.md)
+* [简介](ROS安装/sum.md)
 
 ## ROS基本架构与功能
 
