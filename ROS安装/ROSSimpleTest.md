@@ -1,6 +1,6 @@
 # ROS简单测试
 
-**Author：**Iccccy     **Data：**2021-10-19
+**Author**：Iccccy     **Data**：2021-10-19
 
 > 参考文档：[Introduction · Autolabor-ROS机器人入门课程《ROS理论与实践》零基础教程](http://www.autolabor.com.cn/book/ROSTutorials/)
 

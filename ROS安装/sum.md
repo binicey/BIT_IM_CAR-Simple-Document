@@ -1,6 +1,6 @@
 # ROS安装简介
 
-**Author：**Iccccy     **Data：**2021-10-19
+**Author**:Iccccy     **Data**：2021-10-19
 
 > 资料参考于互联网
 >

@@ -1,6 +1,6 @@
 # ROS安装
 
-**Author：**Iccccy     **Data：**2021-10-19
+**Author**：Iccccy     **Data**：2021-10-19
 
 > 参考文档：[melodic/Installation/Ubuntu - ROS Wiki](http://wiki.ros.org/melodic/Installation/Ubuntu)
 >

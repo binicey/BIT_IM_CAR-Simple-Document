@@ -1,6 +1,6 @@
 # 双系统安装
 
-**Author：**Iccccy     **Data：**2021-10-19
+**Author**：Iccccy     **Data**：2021-10-19
 
 ## 准备材料
 
