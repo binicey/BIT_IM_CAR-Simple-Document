@@ -12,7 +12,7 @@
 
 ## ROS基本架构与功能
 
-* [mian](ros-an-zhuang/mian.md)
+* [mian](ros-ji-ben-jia-gou-yu-gong-neng/mian.md)
 
 ## ROS Navigation
 
@@ -20,7 +20,7 @@
 
 ## ROS SLAM
 
-* [mian](<ROS-WEBtools/main (1).md>)
+* [mian](ros-slam/mian.md)
 
 ## ROS WEBtools
 
