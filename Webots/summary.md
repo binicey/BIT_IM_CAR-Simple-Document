@@ -14,9 +14,7 @@ Webots是一个开源和多平台的桌面应用程序，用于模拟机器人�
 
 它是为专业用途而设计的，并广泛用于工业、教育和研究领域。Cyberbotics Ltd.自1998年以来一直将Webots作为其主要产品。
 
-<iframe width="874" height="491" src="https://www.youtube.com/embed/O7U3sX_ubGc?list=TLGGtEGuO6liMoAwODAyMjAyMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-（视频来源：YouTube）
+**官方宣传视频**：[Webots ](https://www.youtube.com/embed/O7U3sX_ubGc?list=TLGGtEGuO6liMoAwODAyMjAyMg)
 
 ## 主要特点
 
