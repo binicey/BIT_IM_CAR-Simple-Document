@@ -26,6 +26,11 @@
 
 * [mian](ROS-WEBtools/main.md)
 
-## Webots
+## Webots导引
 
-* [mian](Webots/main.md)
+* [简介](Webots/summry.md)
+* [安装](Webots/install.md)
+* [基本操作](Webots/basic.md)
+* [ROS联合仿真](Webots/controlWithRos.md)
+* [拓展资料参考](Webots/more.md)
+
